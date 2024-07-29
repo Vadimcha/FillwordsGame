@@ -1,0 +1,5 @@
+backend/venv
+backend/words
+
+frontend/node_modules
+frontend/package-lock.json
